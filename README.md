@@ -1,6 +1,6 @@
 # RoadAccidentDashboard
 
-<img width="800" alt="Screenshot 2024-02-24 at 1 39 59 PM" src="https://github.com/MingyuTheAnalyst/RoadAccidentDashboard/assets/88122148/a67c98b0-80fa-49ba-a1e3-6f6f54843997">
+ <img width="800" alt="Screenshot 2024-02-24 at 1 39 59 PM" src="https://github.com/MingyuTheAnalyst/RoadAccidentDashboard/assets/88122148/a67c98b0-80fa-49ba-a1e3-6f6f54843997">
 
 ## Table of Contents
 
@@ -14,7 +14,9 @@
 ### Project Overview
 
 - According to the requirements, crate the dashboard includes several KPIs and charts to provide a insight of Road Casualties Great Britain to stakeholders.
-
+  
+ 
+  
 ### Data Sources
 
 - Data source: Road Casualties Great Britain (https://en.wikipedia.org/wiki/Reported_Road_Casualties_Great_Britain#Published_data)
